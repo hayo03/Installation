@@ -25,3 +25,5 @@ The result of this run has to be like the following:
 <p align="center">
   <img src="images/ngrokrun.png">
 </p>
+
+Note. Please note that a Ngrok session will still available only for 2 hours, so you have to rerun Ngrok each time these 2 hours expire.
