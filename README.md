@@ -1,7 +1,7 @@
 # Intro
 During the start tutorial, we will need to use Python as a programming language, visual studio code to write code, and Ngrok to deploy webhook services in localhost.
 ## Install Python 3 
-1. According to your os system, download and install Python from [Here](https://www.python.org/downloads/). Choose the latest version, i.e. "Download Python 3.9.4". 
+1. According to your os system, download and install Python from [Here](https://www.python.org/downloads/). Choose the latest version, i.e. "Download Python 3.9". 
 2. To make sure that Python is installed successfully, run "python3" in the terminal (OS, Ubunti) or in PowerShell (Windows).The result of this has to be like the following:
 
 <p align="center">
